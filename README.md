@@ -4,4 +4,6 @@ calculate execution time in python
  
  We have to include all our source code inside the triple quotes to get accurate result.
  
+ pip command to install it is 
  
+    pip install timeit
